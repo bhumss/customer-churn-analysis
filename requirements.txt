@@ -1,0 +1,24 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+
+# Data preprocessing and feature engineering
+category-encoders
+
+# Model evaluation and tuning
+imbalanced-learn
+
+# Visualization and dashboards (optional)
+plotly
+streamlit
+
+# Jupyter environment (optional)
+jupyter
+notebook
+
+# Utilities
+joblib   
