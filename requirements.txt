@@ -11,14 +11,15 @@ category-encoders
 
 # Model evaluation and tuning
 imbalanced-learn
+xgboost
+
+# Utilities
+joblib   (model saving and loading)
+
+# Jupyter environment (optional)
+jupyter notebook
 
 # Visualization and dashboards (optional)
 plotly
 streamlit
 
-# Jupyter environment (optional)
-jupyter
-notebook
-
-# Utilities
-joblib   
