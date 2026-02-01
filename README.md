@@ -76,13 +76,13 @@ Delivered stronger overall performance
 
 Instead of relying only on accuracy, the models were evaluated using:
 
-Precision
+Precision: How many predicted churn customers were actually churners.
 
-Recall
+Recall: How many actual churn customers were correctly identified.
 
-F1-score
+F1-score: A balanced measure that combines precision and recall.
 
-Confusion Matrix
+Confusion Matrix: A table that shows correct and incorrect predictions by comparing actual values with predicted values.
 
 Recall was the most important metric, because missing a customer who is about to churn is far more costly than reaching out to a loyal one.
 
@@ -100,7 +100,7 @@ Bundle services like Tech Support + Online Security
 
 Keep eye on customers with high monthly bills
 
-These actions can significantly reduce churn with minimal additional cost.
+These actions can significantly reduce churn with minimal additional cost. 
 
 # Tools & Technologies
 
